@@ -7,15 +7,12 @@ This is the classic Hello World exercise. The purpose waas to link my program to
 
 # Development Environment
 
-* Python 3.10
-* VS code
-* Git/GitHub
+ * Python
+ * Git
+ * Visual Studio Code
+ * GitHub
 
 # Useful Websites
 
-
-
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
-![](7eebe41819306265f348f7ef9fe78079.jpg)
+* [BYUI Canvas Assignment](https://byui.instructure.com/courses/196890/assignments/9395761?module_item_id=26060638)
+* [Git Download](https://git-scm.com/download)
