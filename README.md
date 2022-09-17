@@ -2,8 +2,8 @@
 
 This is the classic Hello World exercise. The purpose waas to link my program to GitHub using Visual Studio Code.
 
-[Software Demo Video](http://youtube.link.goes.here)
-* Put video of walkthrough of the code here ^
+[Software Demo Video](https://youtu.be/l1syHV47H0Q)
+
 
 # Development Environment
 
